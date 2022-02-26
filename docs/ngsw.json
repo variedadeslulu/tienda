@@ -1,0 +1,91 @@
+{
+  "configVersion": 1,
+  "timestamp": 1645900179272,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/262.c9ddeda3f17a60b8.js",
+        "/326.12e076b683d482e4.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main.71eae1fefe86bbe6.js",
+        "/manifest.webmanifest",
+        "/polyfills.d161f1ead6e1b835.js",
+        "/runtime.9ec1ac09e4ca32ac.js",
+        "/styles.a0cbeed868339e51.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/i18n/en.json",
+        "/assets/i18n/es.json",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/img/logolulu.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/262.c9ddeda3f17a60b8.js": "7c1a54c213842c39b6dcb37f04a250542da7f8f0",
+    "/326.12e076b683d482e4.js": "047c2effd3ef14fc25972372dd01e9ee928186f5",
+    "/assets/i18n/en.json": "e2b3be7ac40034796942205aa12bbdebd35325ef",
+    "/assets/i18n/es.json": "e2b3be7ac40034796942205aa12bbdebd35325ef",
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/img/logolulu.png": "47e10466faed82e2bcecb3fe9d53f01f719595b3",
+    "/favicon.ico": "232150f83f255345611e88cc3635e3d9e08ccfc3",
+    "/index.html": "630e28e09957d7e6423de067c73e12a56d3b17ad",
+    "/main.71eae1fefe86bbe6.js": "df71716693c8408206e09c6346bc78c9d4ac899e",
+    "/manifest.webmanifest": "0a579cca11322fd0be75f288d9e19a05aebc364b",
+    "/polyfills.d161f1ead6e1b835.js": "54669d75ccb91063f73094ecba025d2147cd478f",
+    "/runtime.9ec1ac09e4ca32ac.js": "99bf49c7fa257b7bf7daa4c98cc80d8ce05a247c",
+    "/styles.a0cbeed868339e51.css": "57356b05c3b71a632b233838530243215ceb88f1"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}

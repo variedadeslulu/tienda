@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklmcatalog=self.webpackChunklmcatalog||[]).push([[326],{6326:(c,o,l)=>{l.r(o),l.d(o,{PrivateModule:()=>e});var u=l(6019),t=l(3668);let e=(()=>{class a{}return a.\u0275fac=function(r){return new(r||a)},a.\u0275mod=t.oAB({type:a}),a.\u0275inj=t.cJS({imports:[[u.ez]]}),a})()}}]);
