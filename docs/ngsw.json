@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1646007440916,
+  "timestamp": 1646007825113,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -12,13 +12,13 @@
       },
       "urls": [
         "/326.12e076b683d482e4.js",
-        "/573.da39396ba12f1169.js",
+        "/573.3d274c39547bdcd7.js",
         "/favicon.ico",
         "/index.html",
         "/main.b6e88f6b8f2a9aa0.js",
         "/manifest.webmanifest",
         "/polyfills.d161f1ead6e1b835.js",
-        "/runtime.58ff407e54f5d8e5.js",
+        "/runtime.05a3589eae4a30df.js",
         "/styles.a0cbeed868339e51.css",
         "/vendor.0a1abfcd215d7851.js"
       ],
@@ -43,7 +43,8 @@
         "/assets/icons/icon-72x72.png",
         "/assets/icons/icon-96x96.png",
         "/assets/img/logolulu.png",
-        "/assets/img/wing.png"
+        "/assets/img/wing.png",
+        "/wing.23aa643c16299518.png"
       ],
       "patterns": []
     }
@@ -51,7 +52,7 @@
   "dataGroups": [],
   "hashTable": {
     "/326.12e076b683d482e4.js": "047c2effd3ef14fc25972372dd01e9ee928186f5",
-    "/573.da39396ba12f1169.js": "62160116eb7d6e3a074dadf7af6af393f355b412",
+    "/573.3d274c39547bdcd7.js": "e04faa3ed58d6acad2e70821f74a27d683f74d57",
     "/assets/i18n/en.json": "e2b3be7ac40034796942205aa12bbdebd35325ef",
     "/assets/i18n/es.json": "e2b3be7ac40034796942205aa12bbdebd35325ef",
     "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
@@ -65,13 +66,14 @@
     "/assets/img/logolulu.png": "47e10466faed82e2bcecb3fe9d53f01f719595b3",
     "/assets/img/wing.png": "d1865beba88a8566704efe0979631903d80eb256",
     "/favicon.ico": "232150f83f255345611e88cc3635e3d9e08ccfc3",
-    "/index.html": "5d2e3552a3021dac48f2622bd4b83d7d964f2aad",
+    "/index.html": "cfd786624967e62228ac91927407d171e8bdc4a7",
     "/main.b6e88f6b8f2a9aa0.js": "578f1a692d2c1fedf726f27413f8fae760add1c1",
     "/manifest.webmanifest": "b061860ccb2e68494b6868b2b1345a612532874c",
     "/polyfills.d161f1ead6e1b835.js": "54669d75ccb91063f73094ecba025d2147cd478f",
-    "/runtime.58ff407e54f5d8e5.js": "19f4c25a36786735e502431850c921a040c08a46",
+    "/runtime.05a3589eae4a30df.js": "01359e747a98aca6146ef32b1981c1f8e3435ffa",
     "/styles.a0cbeed868339e51.css": "57356b05c3b71a632b233838530243215ceb88f1",
-    "/vendor.0a1abfcd215d7851.js": "c142cf9a53eaad3093bf2e05c7344931b167cc14"
+    "/vendor.0a1abfcd215d7851.js": "c142cf9a53eaad3093bf2e05c7344931b167cc14",
+    "/wing.23aa643c16299518.png": "d1865beba88a8566704efe0979631903d80eb256"
   },
   "navigationUrls": [
     {
