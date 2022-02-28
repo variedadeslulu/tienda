@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1646007825113,
+  "timestamp": 1646008268158,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -66,7 +66,7 @@
     "/assets/img/logolulu.png": "47e10466faed82e2bcecb3fe9d53f01f719595b3",
     "/assets/img/wing.png": "d1865beba88a8566704efe0979631903d80eb256",
     "/favicon.ico": "232150f83f255345611e88cc3635e3d9e08ccfc3",
-    "/index.html": "cfd786624967e62228ac91927407d171e8bdc4a7",
+    "/index.html": "286fa2fb59f1e31300ecbe4738714ecfcb31ff1e",
     "/main.b6e88f6b8f2a9aa0.js": "578f1a692d2c1fedf726f27413f8fae760add1c1",
     "/manifest.webmanifest": "b061860ccb2e68494b6868b2b1345a612532874c",
     "/polyfills.d161f1ead6e1b835.js": "54669d75ccb91063f73094ecba025d2147cd478f",
